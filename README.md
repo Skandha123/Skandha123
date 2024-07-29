@@ -84,7 +84,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZyZnlwcnpja3AyaHBkbzZ6eHZxa2ZpMDV3OGJia2Zkb3IydHdlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdgisqRDFyO9G/giphy.webp"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/73095315b994c06823f933250800d8cf1a6d5fc52ffbc37e492bab02e4efa18c/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457863475a795a6e6c77636e706a613341796148426b627a5a3665485a7861325a704d4456334f474a6961325a6b623349796448646c62435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f786467697371524446794f39472f67697068792e77656270"  />
 
 ###
 
@@ -101,7 +101,7 @@
   <a href="skandhapourvaj@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/skandha-s-pourvaj" target="_blank">
+  <a href="https://www.linkedin.com/in/skandha-s-pourvaj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
