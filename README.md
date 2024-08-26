@@ -112,6 +112,5 @@
 
 ###
 
-<p align="left">🎮 Gaming Adventures<br>Gamer Tag: DPsychGhost<br>Favorite Genres: RPG, FPS, Strategy<br>Current Favorites: [Elden ring , WWE 2K , CS2 , ]<br>I believe that gaming and coding go hand in hand. My gaming experiences inspire my coding projects, and vice versa. Whether I'm developing a new game or playing the latest release, I strive to push the boundaries of what's possible.</p>
 
 ###
