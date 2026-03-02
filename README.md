@@ -108,9 +108,15 @@
 
 ###
 
-<p align="left">I'm a multifaceted developer with a deep passion for coding, gaming, and ethical hacking. My journey through technology has been driven by curiosity and a relentless desire to create, innovate, and secure digital experiences.<br><br> About Me , there you go <br><br>Developer: With a strong foundation in full stack development, I build robust and scalable web applications. I enjoy working with a variety of languages and frameworks, including JavaScript, Python, and Java. My projects often blend functionality with aesthetics, ensuring a seamless user experience.<br><br>Gamer: Gaming is more than a hobby; it's an integral part of my life. I love exploring the latest titles, understanding game mechanics, and even dabbling in game development. The intersection of gaming and coding fascinates me, leading me to create interactive and engaging gaming experiences.</p>
+<p>
+  I'm a data-driven problem solver with a strong foundation in software engineering and a growing focus on product and growth analytics. My journey in technology has been guided by curiosity and a desire to turn user and product data into clear, actionable insights that drive better decisions.<br><br>
 
-###
+About Me, there you go<br><br>
+
+Data & Product Analytics: I specialize in analyzing user behavior, conversion funnels, and product performance using SQL and Python. I enjoy working with event-level data to uncover patterns in activation, retention, and engagement, and translating ambiguous business questions into structured analytical approaches that teams can act on.<br><br>
+
+Engineering Background: With hands-on experience in full stack development, I bring a strong understanding of data pipelines, event instrumentation, and scalable web systems. This engineering foundation helps me work effectively with product and marketing teams to ensure data is reliable, well-modeled, and decision-ready.</p>
+
 
 
 ###
