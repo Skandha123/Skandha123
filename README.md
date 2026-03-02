@@ -115,7 +115,7 @@ About Me, there you go<br><br>
 
 Data & Product Analytics: I specialize in analyzing user behavior, conversion funnels, and product performance using SQL and Python. I enjoy working with event-level data to uncover patterns in activation, retention, and engagement, and translating ambiguous business questions into structured analytical approaches that teams can act on.<br><br>
 
-Engineering Background: With hands-on experience in full stack development, I bring a strong understanding of data pipelines, event instrumentation, and scalable web systems. This engineering foundation helps me work effectively with product and marketing teams to ensure data is reliable, well-modeled, and decision-ready.</p>
+Engineering Background: With hands-on experience in data analysis ,My engineering background enables me to work closely with product and marketing teams to design reliable tracking, validate data quality, and deliver analytics that directly supports business decision-making.</p>
 
 
 
