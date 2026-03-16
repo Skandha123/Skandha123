@@ -109,7 +109,7 @@
 ###
 
 <p>
-  am an AI Engineer with a strong foundation in software engineering and a focus on building intelligent systems that transform data into actionable outcomes. My work centers on designing and deploying machine learning models, developing AI-driven applications, and integrating intelligent capabilities into real-world products. I approach complex problems with a systems mindset, combining data analysis, machine learning, and software engineering to create scalable AI solutions.
+  An AI Engineer with a strong foundation in software engineering and a focus on building intelligent systems that transform data into actionable outcomes. My work centers on designing and deploying machine learning models, developing AI-driven applications, and integrating intelligent capabilities into real-world products. I approach complex problems with a systems mindset, combining data analysis, machine learning, and software engineering to create scalable AI solutions.
 
 Artificial Intelligence & Machine Learning:
 I specialize in developing machine learning models and AI-powered systems that extract insights from complex datasets. My work involves building data pipelines, training and optimizing models, and deploying AI solutions that support recommendation systems, automation workflows, and intelligent decision-making. I focus on designing reliable ML pipelines that move seamlessly from data processing to model deployment in production environments.
