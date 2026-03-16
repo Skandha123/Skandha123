@@ -109,13 +109,13 @@
 ###
 
 <p>
-  I'm a data-driven problem solver with a strong foundation in software engineering and a growing focus on product and growth analytics. My journey in technology has been guided by curiosity and a desire to turn user and product data into clear, actionable insights that drive better decisions.<br><br>
+  am an AI Engineer with a strong foundation in software engineering and a focus on building intelligent systems that transform data into actionable outcomes. My work centers on designing and deploying machine learning models, developing AI-driven applications, and integrating intelligent capabilities into real-world products. I approach complex problems with a systems mindset, combining data analysis, machine learning, and software engineering to create scalable AI solutions.
 
-About Me, there you go<br><br>
+Artificial Intelligence & Machine Learning:
+I specialize in developing machine learning models and AI-powered systems that extract insights from complex datasets. My work involves building data pipelines, training and optimizing models, and deploying AI solutions that support recommendation systems, automation workflows, and intelligent decision-making. I focus on designing reliable ML pipelines that move seamlessly from data processing to model deployment in production environments.
 
-Data & Product Analytics: I specialize in analyzing user behavior, conversion funnels, and product performance using SQL and Python. I enjoy working with event-level data to uncover patterns in activation, retention, and engagement, and translating ambiguous business questions into structured analytical approaches that teams can act on.<br><br>
-
-Engineering Background: With hands-on experience in data analysis ,My engineering background enables me to work closely with product and marketing teams to design reliable tracking, validate data quality, and deliver analytics that directly supports business decision-making.</p>
+Engineering Background:
+With hands-on experience in software engineering and backend system design, I build AI systems that are robust, scalable, and production-ready. My engineering background enables me to design data infrastructure, integrate machine learning models into APIs and applications, and collaborate effectively with product and engineering teams to deliver AI-driven features that solve real-world problems.</p>
 
 
 
